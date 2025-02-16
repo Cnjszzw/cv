@@ -65,7 +65,7 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: "https://ohmycv.app"
+    url: "https://cnjszzw.github.io/cv/"
   },
 
   pwa
