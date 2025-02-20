@@ -2,11 +2,11 @@ import { PREVIEW_SELECTOR } from "./render";
 import type { ResumeStyles } from "../../stores/style";
 
 export const DEFAULT_STYLES = {
-  marginV: 50,
-  marginH: 45,
-  lineHeight: 1.3,
-  paragraphSpace: 5,
-  themeColor: "#377bb5",
+  marginV: 30,
+  marginH: 40,
+  lineHeight: 1.25,
+  paragraphSpace: 0,
+  themeColor: "#CA3832",
   fontCJK: {
     name: "华康宋体",
     fontFamily: "HKST"
@@ -14,7 +14,7 @@ export const DEFAULT_STYLES = {
   fontEN: {
     name: "Minion Pro"
   },
-  fontSize: 15,
+  fontSize: 13,
   paper: "A4"
 } as ResumeStyles;
 
