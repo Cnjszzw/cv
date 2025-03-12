@@ -30,7 +30,7 @@ header:
     link: https://zhaozhiwen.site
   - text:  籍贯：江苏扬州
     newLine: true
-  - text:  现居城市：北京
+  - text:  现居城市：上海
   - text:  年龄：26(1999/10/27)
 ---
 
