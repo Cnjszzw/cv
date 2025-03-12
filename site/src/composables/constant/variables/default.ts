@@ -71,7 +71,7 @@ header:
   ~ 北京流金岁月科技有限公司
   ~ 2024/12 - 2025/03
 
-**技术栈**：SpringBoot、Maven、Oracle、JDBC、Git
+**技术栈**：Java、SpringBoot、Maven、Oracle、JDBC、Git
 
 **项目描述**：数字化采集系统是一个基于规则引擎的数据同步系统，核心目标是高效、准确地实现不同数据库表项之间的数据同步。系统通过四个主要阶段（同步映射管理、数据清洗、数据审核、数据同步）确保数据的完整性、安全性和可用性。
 
@@ -89,7 +89,7 @@ header:
 
 **项目开源地址**：[https://github.com/Cnjszzw/imooc-bilibili](https://github.com/Cnjszzw/imooc-bilibili)  **线上地址**：[www.citywork.icu](http://www.citywork.icu)
 
-**技术栈**：SpringBoot、Mybatis、Redis、RocketMQ、Nginx、FastDFS、WebSocket
+**技术栈**：Java、SpringBoot、Mybatis、Redis、RocketMQ、Nginx、FastDFS、WebSocket
 
 **项目描述**：实现B站核心功能，包括“用户功能”、“视频功能”、“弹幕功能”。具体实现了用户注册登录、用户关注、用户动态发布、用户视频上传和观看、弹幕推送等逻辑，并进行了系统性能提升和用户体验优化。
 
@@ -114,7 +114,7 @@ header:
   ~ 2024/02 - 2024/05
 
 **项目背景**：主干环境每日拉取最新服务代码构建部署，且直连团队采用JBOX插件容器技术对接不同商家，存在“平台”和“插件”概念，不同部署方式和特定部署顺序。当前内部平台无法：按序部署插件、感知插件、及时同步线上下插件。
-
+**技术栈**：Java、SpringBoot、Redis、Redisson、Git
 **项目任务**：新技术和平台的不兼容引发了：插件部署失败、插件记录缺失、新插件不同步等一系列现象，并最终导致环境的不稳定以及大量自动化用例无效失败，针对这些现象进行了JBOX环境治理工具的开发以解决问题。
 
 **工作成果**：
