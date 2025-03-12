@@ -53,7 +53,7 @@ header:
 
 **后端开发实习生**
   ~ 北京流金岁月科技有限公司
-  ~ 2024/12 - 至今
+  ~ 2024/12 - 2025/03
 
 - 负责开发数据采集及数字化处理系统，实现结构化管理、数据清洗、数据审核、数字化监控和预警功能
 
@@ -69,7 +69,7 @@ header:
 
 <span style="color: #377BB5;">**1️⃣数据采集及数字化处理系统**</span>
   ~ 北京流金岁月科技有限公司
-  ~ 2024/12 - 至今
+  ~ 2024/12 - 2025/03
 
 **技术栈**：SpringBoot、Maven、Oracle、JDBC、Git
 
@@ -125,7 +125,7 @@ header:
 
 **项目亮点**：
 - 利用Redis和分布式锁解决分布式架构下同平台插件只能串行部署的问题- 利用多线程技术并发部署不同平台的插件，提高插件的部署速度和效率
-## <span style="background-color: #377BB5; color: white; padding: 2px 10px; border-radius: 0px;">专业经历</span>
+## <span style="background-color: #377BB5; color: white; padding: 2px 10px; border-radius: 0px;">专业技能</span>
 
 1.具备扎实编程基础，熟悉Java语言、JVM、内存模型、并发编程；熟悉SpringBoot、SpringCloud、Mybatis等开发技术
 
