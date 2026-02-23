@@ -48,6 +48,53 @@ Contributions are welcome. Please read this [Contributing Guide](.github/CONTRIB
 
 &nbsp;
 
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18+)
+- [pnpm](https://pnpm.io/) (v9.4.0) - This project uses pnpm as the package manager
+
+### Installation
+
+```bash
+# Install pnpm globally if you don't have it
+npm install -g pnpm
+
+# Install dependencies
+pnpm install
+```
+
+### First Time Setup
+
+```bash
+# Build workspace packages (required before first run)
+pnpm build:pkg
+```
+
+### Development
+
+```bash
+# Start development server
+pnpm dev
+```
+
+### Production Build
+
+```bash
+# Build for production
+pnpm build
+
+# Preview production build
+pnpm serve
+```
+
+> **Note**: If you see an error like `'pnpm' is not recognized`, make sure pnpm is installed and added to your system PATH.
+>
+> **First time setup**: Run `pnpm build:pkg` to build workspace packages before the first run. This is required because this is a monorepo project with multiple packages that need to be compiled first.
+
+&nbsp;
+
 ## Credits
 
 - [billryan/resume](https://github.com/billryan/resume)
